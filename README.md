@@ -17,6 +17,9 @@ Ao final, a imagem gerada traz como nome do arquivo o prompt gerado em inglês: 
 O resultado do projeto é uma pintura em tela gerada por uma inteligência artificial generativa, como a Crayon, após duas iterações do prompt original.
 A avaliação da autenticidade e qualidade da obra é realizada com base em uma comparação com pinturas reais feitas por humanos, bem como na percepção do público sobre a origem da imagem.
 
+![craiyon_141622_French_Impressionist_painting_of_a_women_rowing_a_riverboat_through_mountains](https://github.com/andredi01/lab-natty-or-not/assets/162837663/42fbdbb7-e120-468c-a9fb-cfd23c715cbd)
+
+
 
 ## 💭 Reflexão (Opcional)
 O desafio de criar algo "natty" (natural ou genuíno) com inteligência artificial envolve não apenas a capacidade técnica das IAs generativas em produzir resultados convincentes, mas também questões éticas e estéticas sobre a autenticidade da arte gerada.
