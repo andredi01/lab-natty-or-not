@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Pintura em Tela Natty or Not ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto "Pintura em Tela Natty or Not" visa explorar a capacidade das inteligências artificiais generativas (IAs) na criação de imagens que sejam indistinguíveis de obras de arte feitas por humanos.
+O foco principal é, apenas através de um prompt, gerar uma pintura em tela que pareça autêntica e convincente, desafiando a percepção visual do espectador quanto à sua origem.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A principal tecnologia utilizada no projeto foi a ferramenta Crayon (www.crayon.com), no estilo "Drawing".
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+No processo de criação, foi fornecido um prompt inicial para orientar a geração da imagem pela IA generativa: "Um barco de pesca na margem de um rio"
+Após a primeira iteração, foi feito um ajuste no prompt com base na imagem resultante: "Um barco de pesca na margem de um rio, com montanhas ao fundo". 
+Em seguida, foi feita uma última iteração no prompt refinar ainda mais a pintura: "Um barco de pesca, conduzido por um pescador, na margem de um rio, com montanhas ao fundo".
+Ao final, a imagem gerada traz como nome do arquivo o prompt gerado em inglês: "French Impressionist painting of a women rowing a riverboat through mountains".
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado do projeto é uma pintura em tela gerada por uma inteligência artificial generativa, como a Crayon, após duas iterações do prompt original.
+A avaliação da autenticidade e qualidade da obra é realizada com base em uma comparação com pinturas reais feitas por humanos, bem como na percepção do público sobre a origem da imagem.
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O desafio de criar algo "natty" (natural ou genuíno) com inteligência artificial envolve não apenas a capacidade técnica das IAs generativas em produzir resultados convincentes, mas também questões éticas e estéticas sobre a autenticidade da arte gerada.
+Apesar da discrepância entre os prompts de solicitação (português) e o prompt do resultado (inglês), e caso não houvesse marca d'água da ferramenta na imagem, creio que alguém com visão leiga sobre pintura em tela teria dificuldade em classificar a imagem gerada como Natty ou Not Natty.
